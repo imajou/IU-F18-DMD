@@ -1,0 +1,12 @@
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (1, 200, '2018-11-20 09:00:00.002000', 'Rent', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (2, 100, '2018-11-21 08:00:00.020000', 'Rent', 3);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (3, 200, '2018-11-20 12:00:00.002000', 'Rent', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (4, 300, '2018-11-20 19:00:00.002000', 'Rent', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (5, 100, '2018-11-20 12:00:00.002000', 'Rent', 3);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (6, 10, '2018-11-20 12:15:00.002000', 'Charge', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (7, 150, '2018-11-21 12:15:00.002000', 'Workshop', 1);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (8, 200, '2018-11-21 12:55:00.002000', 'Workshop', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (9, 500, '2018-11-22 12:55:00.002000', 'Workshop', 3);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (10, 15, '2018-11-21 12:30:00.002000', 'Charge', 2);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (11, 12, '2018-11-21 12:10:00.002000', 'Charge', 1);
+INSERT INTO public.transactions (transaction_id, amount, date, type, customer_id) VALUES (12, 10, '2018-11-21 15:10:00.002000', 'Charge', 1);

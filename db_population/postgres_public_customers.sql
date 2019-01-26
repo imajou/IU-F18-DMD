@@ -1,0 +1,3 @@
+INSERT INTO public.customers (customer_id, email, phone, name, username, location) VALUES (1, 'dumb_one@gmail.com', '9209001337', 'Speedy Gonsales', 'speedygonsales', '51.164419;71.445885');
+INSERT INTO public.customers (customer_id, email, phone, name, username, location) VALUES (2, 'm.mazzara@innopolis.ru', '7777777777', 'Manuel Mazzara', 'Don', '51.155645;71.470001');
+INSERT INTO public.customers (customer_id, email, phone, name, username, location) VALUES (3, 'j.lee@innopolis.ru', '2231565400', 'Joo Lee', 'Koreangirl', '51.141905;71.409886');

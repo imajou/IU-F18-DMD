@@ -1,0 +1,6 @@
+dash==0.30.0
+dash-html-components==0.13.2
+dash-core-components==0.38.0
+dash-table==3.1.6
+pandas==0.23.4
+psycopg2-binary==2.7.6.1

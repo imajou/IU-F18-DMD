@@ -1,0 +1,3 @@
+INSERT INTO public.workshop_calendar (workshop_id, date_from, date_to, car_id, transaction_id) VALUES (1, '2018-11-20 12:15:00.002000', '2018-11-21 12:15:00.002000', 1, 7);
+INSERT INTO public.workshop_calendar (workshop_id, date_from, date_to, car_id, transaction_id) VALUES (2, '2018-11-20 12:15:00.002000', '2018-11-22 12:15:00.002000', 2, 8);
+INSERT INTO public.workshop_calendar (workshop_id, date_from, date_to, car_id, transaction_id) VALUES (2, '2018-11-21 12:55:00.002000', '2018-11-22 12:55:00.002000', 2, 9);

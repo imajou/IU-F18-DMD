@@ -1,0 +1,4 @@
+INSERT INTO public.orders (car_id, transaction_id, date_from, date_to, location_destination, location_pickup) VALUES (4, 1, '2018-11-20 09:00:00.002000', '2018-11-20 10:00:00.002000', '51.141905;71.409886', '51.160366;71.482660');
+INSERT INTO public.orders (car_id, transaction_id, date_from, date_to, location_destination, location_pickup) VALUES (2, 3, '2018-11-20 12:00:00.002000', '2018-11-20 13:00:00.002000', '51.141905;71.409886', '51.141905;71.409886');
+INSERT INTO public.orders (car_id, transaction_id, date_from, date_to, location_destination, location_pickup) VALUES (2, 5, '2018-11-21 09:00:00.020000', '2018-11-21 10:00:00.020000', '51.141905;71.409886', '51.160366;71.482660');
+INSERT INTO public.orders (car_id, transaction_id, date_from, date_to, location_destination, location_pickup) VALUES (1, 2, '2018-11-21 08:00:00.020000', '2018-11-21 09:00:00.020000', '51.141905;71.409886', '51.140610;71.481164');

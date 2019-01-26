@@ -1,0 +1,5 @@
+INSERT INTO public.charging_stations_usage (car_id, station_id, plug_type, date_from, date_to, amount_of_charge, transaction_id) VALUES (2, 2, 'C', '2018-11-20 12:30:00.002000', '2018-11-20 12:45:00.002000', 1, 6);
+INSERT INTO public.charging_stations_usage (car_id, station_id, plug_type, date_from, date_to, amount_of_charge, transaction_id) VALUES (4, 1, 'B', '2018-11-21 12:10:00.002000', '2018-11-21 13:00:00.002000', 2, 11);
+INSERT INTO public.charging_stations_usage (car_id, station_id, plug_type, date_from, date_to, amount_of_charge, transaction_id) VALUES (1, 1, 'A', '2018-11-21 12:30:00.002000', '2018-11-21 13:30:00.002000', 4, 10);
+INSERT INTO public.charging_stations_usage (car_id, station_id, plug_type, date_from, date_to, amount_of_charge, transaction_id) VALUES (2, 2, 'D', '2018-11-21 12:30:00.002000', '2018-11-21 12:45:00.002000', 20, 5);
+INSERT INTO public.charging_stations_usage (car_id, station_id, plug_type, date_from, date_to, amount_of_charge, transaction_id) VALUES (3, 1, 'E', '2018-11-21 13:30:00.002000', '2018-11-21 14:30:00.002000', 40, 3);

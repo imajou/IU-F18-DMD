@@ -1,0 +1,3 @@
+INSERT INTO public.parts_requests (part_id, workshop_id, provider_id, date_of_arrival, amount, request_id) VALUES (1, 1, 2, '2018-11-20 09:00:00.002000', 2, 1);
+INSERT INTO public.parts_requests (part_id, workshop_id, provider_id, date_of_arrival, amount, request_id) VALUES (1, 2, 3, '2018-11-21 18:00:00.002000', 5, 2);
+INSERT INTO public.parts_requests (part_id, workshop_id, provider_id, date_of_arrival, amount, request_id) VALUES (2, 2, 1, '2018-11-22 09:00:00.002000', 3, 3);
